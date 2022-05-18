@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 
 ## 🏅 Achievements 
 
-Since I'm 15 yo. I develop plugins for Minecraft servers (Arqion/ElementaryNetwork), some websites for friends and geeky stuff like theses.
+Since I'm 12 yo. I develop plugins for Minecraft servers (Arqion/ElementaryNetwork), some websites for friends and geeky stuff like theses.
 I got to partipate to the CGL (a national programming contest) of april 2022. 
