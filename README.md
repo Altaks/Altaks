@@ -17,9 +17,10 @@ Here are some ideas to get you started:
 
 ## ❔ About me 
 
-🎓 I'm Altaks, a 17 yo. french student who's learning programming languages in order to get a **FullStack Developer** status. I'm specializing myself in **back-end** languages such as Java, Python and C++. 
+🎓 I'm Altaks, a 17 yo. french student who's learning programming languages in order to get a **FullStack Developer** status. I'm specializing myself in **back-end** languages such as Java, Python and C++.
+I like learning about everything, especially about algorithms, optimization techniques, maths, physics and everything that concerns our world
 
 ## 🏅 Achievements 
 
-Since I'm 12 yo. I develop plugins for Minecraft servers (Arqion/ElementaryNetwork), some websites for friends and geeky stuff like these.
+Since I'm 12 yo. I developed plugins for Minecraft servers (Arqion for 1 year and ElementaryNetwork for one year and a half), some websites for friends and geeky stuff like these.
 I got to partipate to the CGL (a national programming contest) of april 2022. 
