@@ -26,6 +26,7 @@ I'd love to learn Kotlin to code on Android based machines, and JavaScript in or
 Since I'm 12 yo. I developed plugins for Minecraft servers (Arqion for 1 year and ElementaryNetwork for one year and a half), some websites for friends and geeky stuff like these.
 🎓 I got to partipate to the CGL (a national programming contest) of april 2022.
 
-### 📫 Contact me
+## 📫 Contact me
+
 You can contact me by many ways, by email to altair61.dev@gmail.com, dm on discord to Altαks#0397 (the second "a" is an "alpha" from the greek alphabet, be careful)
 I'm not really active on Twitter so I dont't advise you to contact me by this way.
