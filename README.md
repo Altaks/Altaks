@@ -36,5 +36,7 @@ When i was coding for ElementaryNetwork I was on a different project named Eleme
 ## 📫 Contact me
 
 You can contact me by many ways, by email to altair61.dev@gmail.com, dm on discord to Altαks#0397 (the second "a" is an "alpha" from the greek alphabet, be careful)
+
 I'm currently not under any contracts so you can contact me to develop tiny/medium projects, I'd be glad to learn new things while offering my services
+
 I'm not really active on Twitter so I dont't advise you to contact me by this way.
