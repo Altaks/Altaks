@@ -23,10 +23,13 @@ I'd love to learn Kotlin to code on Android based machines, and JavaScript in or
 
 ## 🏅 Achievements 
 
-Since I'm 12 yo. I developed plugins for Minecraft servers (Arqion for 1 year and ElementaryNetwork for one year and a half), some websites for friends and geeky stuff like these.
+Since I'm 12 yo. I developed plugins for Minecraft servers (Arqion for 1 year and ElementaryNetwork for one year and a half), some websites for friends and geeky stuff like these. 
+I developed and managed this entire infrastructure of Arqion, based on BungeeCord and a bunch of Spigot servers.
+It needed the development of home-made plugins such as economy plugins, player island plugins (it was a SkyBlock), moderation plugins, pets plugins and much more. Feel free to check these : [Plugins from Arqion](https://github.com/Altaks/ArqionPlugins)
 🎓 I got to partipate to the CGL (a national programming contest) of april 2022.
 
 ## 📫 Contact me
 
 You can contact me by many ways, by email to altair61.dev@gmail.com, dm on discord to Altαks#0397 (the second "a" is an "alpha" from the greek alphabet, be careful)
+I'm currently not under any contracts so you can contact me to develop tiny/medium projects, I'd be glad to learn new things while offering my services
 I'm not really active on Twitter so I dont't advise you to contact me by this way.
