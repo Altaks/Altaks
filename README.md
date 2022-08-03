@@ -39,4 +39,4 @@ You can contact me by many ways, by email to altair61.dev@gmail.com, dm on disco
 
 I'm currently not under any contracts so you can contact me to develop tiny/medium projects, I'd be glad to learn new things while offering my services
 
-I'm not really active on Twitter so I dont't advise you to contact me by this way.
+I'm not really active on Twitter so I don't advise you to contact me by this way.
