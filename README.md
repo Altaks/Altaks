@@ -32,6 +32,7 @@ It needed the development of home-made plugins such as economy plugins, player i
 When i was coding for ElementaryNetwork I was on a different project named ElementaryOdyssey. I was working alone and developed a full system of dungeons based on the Hack'N'Slash combat system. All the instructions to use the plugin are into the files of the plugin, but in french.
 
 🎓 I got to partipate to the CGL (a national programming contest) of april 2022.
+😄 I also participated to the "Nuit de l'info", a national coding competition going on at night (16 hours of non-coding, awesome !) 
 
 ## 📫 Contact me
 
