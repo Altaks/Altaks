@@ -26,7 +26,7 @@ I'd love to learn Kotlin to code on Android based machines, and JavaScript in or
 ## 🏅 Achievements 
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Altaks&layout=compact&theme=synthwave">
-Since I'm 12 yo. I developed plugins for Minecraft servers (Arqion for 1 year and ElementaryNetwork for one year and a half), some websites for friends and geeky stuff like these. 
+Since I was 12 yo. I developed plugins for Minecraft servers (Arqion for 1 year and ElementaryNetwork for one year and a half), some websites for friends and geeky stuff like these. 
 
 I developed and managed this entire infrastructure of Arqion, based on BungeeCord and a bunch of Spigot servers.
 It needed the development of home-made plugins such as economy plugins, player island plugins (it was a SkyBlock), moderation plugins, pets plugins and much more. Feel free to check these : [Plugins from Arqion](https://github.com/Altaks/ArqionPlugins)
