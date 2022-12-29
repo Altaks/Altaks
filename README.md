@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 # Hi everyone ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
 
 ## ❔ About me 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Altaks&count_private=true&show_icons=true&hide_border=true&theme=radical">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Altaks&count_private=true&show_icons=true&hide_border=true&theme=synthwave">
 
 I'm Altaks, a 18 yo. french student who's learning programming languages in order to get a **FullStack Developer** status. I'm specializing myself in **back-end** languages such as Java, Python and C++.
 
@@ -25,6 +25,7 @@ I'd love to learn Kotlin to code on Android based machines, and JavaScript in or
 
 ## 🏅 Achievements 
 
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Altaks&layout=compact&theme=synthwave">
 Since I'm 12 yo. I developed plugins for Minecraft servers (Arqion for 1 year and ElementaryNetwork for one year and a half), some websites for friends and geeky stuff like these. 
 
 I developed and managed this entire infrastructure of Arqion, based on BungeeCord and a bunch of Spigot servers.
@@ -38,6 +39,7 @@ When i was coding for ElementaryNetwork I was on a different project named Eleme
 
 ## 📫 Contact me
 
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Altaks&theme=dark&hide_border=true&fire=red&sideNums=red">
 You can contact me by many ways, by email to altair61.dev@gmail.com, dm on discord to Altαks#0397 (the second "a" is an "alpha" from the greek alphabet, be careful)
 
 I'm currently not under any contracts so you can contact me to develop tiny/medium projects, I'd be glad to learn new things while offering my services
