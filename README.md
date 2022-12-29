@@ -40,7 +40,7 @@ When i was coding for ElementaryNetwork I was on a different project named Eleme
 ## 📫 Contact me
 
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Altaks&theme=dark&hide_border=true&fire=red&sideNums=red">
-You can contact me by many ways, by email to altair61.dev@gmail.com, dm on discord to Altαks#0397 (the second "a" is an "alpha" from the greek alphabet, be careful)
+You can contact me by many ways, by email to <em>altair61.dev@gmail.com</em>, dm on discord to Altαks#0397 (the second "a" is an "alpha" from the greek alphabet, be careful)
 
 I'm currently not under any contracts so you can contact me to develop tiny/medium projects, I'd be glad to learn new things while offering my services
 
