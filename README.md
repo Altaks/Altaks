@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 # Hi everyone ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
 
 ## ❔ About me 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Altaks&count_private=true&show_icons=true&hide_border=true&theme=radical">
 
 I'm Altaks, a 18 yo. french student who's learning programming languages in order to get a **FullStack Developer** status. I'm specializing myself in **back-end** languages such as Java, Python and C++.
 
