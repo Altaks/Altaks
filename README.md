@@ -35,7 +35,7 @@ When I was coding for ElementaryNetwork I was on a different project named Eleme
 
 🎓 I got to partipate to the CGL (a national programming contest) of april 2022.
 
-😄 I also participated to the "Nuit de l'info", a national coding competition going on at night (16 hours of non-coding, awesome !) .
+😄 I also participated to the "Nuit de l'info", a national coding competition going on at night (16 hours of non-stop coding, awesome !) .
 
 ## 📫 Contact me
 
