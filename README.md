@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi everyone ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
+# Hello ladies and gentlemen ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
 
 ## ❔ About me 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Altaks&count_private=true&show_icons=true&hide_border=true&theme=synthwave">
