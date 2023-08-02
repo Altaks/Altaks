@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## ❔ About me 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Altaks&count_private=true&show_icons=true&hide_border=true&theme=synthwave">
 
-I'm Altaks, a 18 yo. french student who's learning programming languages in order to get a **FullStack Developer** status. I'm specializing myself in **back-end** languages such as Java, Python and C++.
+I'm Altaks, a 19 yo. french student who's learning programming languages in order to get a **FullStack Developer** status. I'm specializing myself in **back-end** languages such as Java, Python and C++.
 
 I like learning about everything, especially about algorithms, optimization techniques, maths, physics and everything that concerns our world.
 I'd love to learn Kotlin to code on Android based machines, and JavaScript in order to pay my scholarship by developing websites for anyone.
