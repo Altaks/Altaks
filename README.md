@@ -9,7 +9,7 @@ I'm Altaks, a 20 yo. french student who's studying computer science in order to 
 ![Operating systems](https://go-skill-icons.vercel.app/api/icons?i=ubuntu,nix,debian,android,arch,mint,kali,windows,apple)
 
 ## 👾 Programming languages
-![Programming languages](https://go-skill-icons.vercel.app/api/icons?i=rust,nix,c,cpp,typescript,js,php,java,py,kotlin,html,css,dart,bash,swift)
+![Programming languages](https://go-skill-icons.vercel.app/api/icons?i=rust,nix,c,cpp,typescript,js,php,java,py,kotlin,html,css,dart,go,bash)
 
 ## 🖥️ Native applications development
 ![Native applications development](https://go-skill-icons.vercel.app/api/icons?i=tauri,jetpackcompose,flutter,reactnative,expo,qt)
