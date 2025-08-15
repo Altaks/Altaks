@@ -1,6 +1,6 @@
 
 # 🔭 About me 
-I'm Altaks, a 20 yo. french student who's studying computer science in order to become a **FullStack Developer**. 
+I'm Altaks, a 21yo. french student who's studying computer science in order to become a **FullStack Developer**. 
 <br/>
 
 # 🛠️ Tech Stack
